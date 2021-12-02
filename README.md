@@ -1,5 +1,5 @@
-# IOSD-UIETKUK-HacktoberFest-Meetup-2019
-This repository is for IOSD UIET-KUK HacktoberFest Meetup 2019.
+# IOSD-HacktoberFest-Repo-2020
+This repository was started for IOSD  HacktoberFest Meetup 2019. This can be utilised in 2020 Hacktoberfest as well.
 Write programs in your preferred coding language.
 
 ## Getting Started
@@ -19,15 +19,18 @@ There are 4 types of problems in this repository
   <li>Input The Age, if age > 18 print adult , if 10 < age <= 18 print teen, if age < 10 print child</li>
   <li>Fibonacci Sequence</li>
   <li>Check Whether Input String is Palindrome or Not</li>
+  <li>Rotate an Array</li>
+  <li>Rearrange array so positive and negative numbers separated</li>
 </ul>
 
 ### Intermediate
 
 <ul>
   <li>Bubble Sort</li>
-  <li>Binary Search</li>
+  <li>Insertion Sort</li> 
+  <li>Selection Sort</li>
+  <li>Merge Sort</li>
   <li>Quick Sort</li>
-  <li>Flip the bits of a given number</li>
 </ul>
 
 ### Advanced
